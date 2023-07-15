@@ -1,8 +1,9 @@
 # Elvarg
-Elvarg is a #317 protocol rsps. Server was written from scratch, clean, perfect combat, etc.. Good base to start off with.
+This is a personal project based on Runescape Elvarg 317 project - https://github.com/camelot317/Elvarg for an own challenge and educational and propose.
+Since 2006 I started playing Runescape at 9 age. It has been the game which I played for longer. I always wanted to know how it was made, all it's secrets on gameplay etc. Now, using Elvarg 317 project base, I'm going to discover by myself and try to code some improvements.
 
-#317 RSPS Community Server
-Users will have opertunity to contribute to the GitHub Repository for any general fixes, contents, etc.. to better improve the base.
+# About Copyright and Intellectual Property
+This project has been developed from the <a href="https://oldschool.runescape.com/" target="_blank">RuneScape client revision 317</a>, which was publicly released on the 13th of June 2005 and is the intellectual property of <a href="https://www.jagex.com/" target="_blank">Jagex Ltd</a>.
 
-# Release Thread
-https://www.rune-server.ee/runescape-development/rs2-server/downloads/651062-elvarg-131osrs-base-netty-4-1-8-jaggrab-perfect-combat-extremely-stable-release.html
+# Release
+Project won't have any release, this is just for my own knowledge.

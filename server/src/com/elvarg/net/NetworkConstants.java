@@ -70,8 +70,7 @@ public class NetworkConstants {
 	public static final ImmutableList<String> IGNORED_NETWORK_EXCEPTIONS = ImmutableList.of(
 			"An existing connection was forcibly closed by the remote host",
 			"An established connection was aborted by the software in your host machine",
-			"En befintlig anslutning tvingades att stänga av fjärrvärddatorn"); // Swedish
-																				// <3
+			"Una connexiÃ³ ja establida ha sigut abortada per la mÃ quina local"); // EN CATALA COLEGUE
 
 	/**
 	 * The amount of connections that are allowed from the same host.

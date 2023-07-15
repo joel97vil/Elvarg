@@ -13,8 +13,8 @@ import com.runescape.collection.Queue;
 import com.runescape.io.Buffer;
 import com.runescape.sign.SignLink;
 
-import jdk.nashorn.internal.runtime.regexp.joni.Config;
-import sun.security.krb5.internal.crypto.crc32;
+/*import jdk.nashorn.internal.runtime.regexp.joni.Config;
+import sun.security.krb5.internal.crypto.crc32;*/
 
 public final class ResourceProvider extends Provider implements Runnable {
 
