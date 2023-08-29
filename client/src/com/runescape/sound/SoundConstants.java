@@ -15,5 +15,5 @@ public class SoundConstants {
 	public static final int FARMING_THEME = 466;
 	public static final int HUNTER_THEME = 207;
 	public static final int SUMMON_THEME = 457;
-
+        public static final int NEW_EFFECT = 999;
 }

@@ -12172,7 +12172,8 @@ public class Client extends GameApplet {
 		char c = '\u0168';
 		char c1 = '\310';
 		if (Configuration.enableMusic && !lowMemory) {
-			playSong(SoundConstants.SCAPE_RUNE);
+			//playSong(SoundConstants.SCAPE_RUNE);
+                        playSong(SoundConstants.NEW_EFFECT);
 		}
 		if (loginScreenState == 0) {
 			int i = c1 / 2 + 80;

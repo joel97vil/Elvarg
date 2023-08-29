@@ -93,7 +93,7 @@ public final class Configuration {
 	 * Dump Indexes Index 1 = Models Index 2 = Animations Index 3 = Sounds/Music
 	 * Index 4 = Maps
 	 */
-	public static boolean dumpIndexOne = false, dumpIndexTwo = false, dumpIndexThree = false, dumpIndexFour = false;
+	public static boolean dumpIndexOne = false, dumpIndexTwo = false, dumpIndexThree = true, dumpIndexFour = true;
 
 	/**
 	 * Shows the ids of items, objects, and npcs on right click
@@ -129,7 +129,7 @@ public final class Configuration {
 	/**
 	 * Displays health above entities heads
 	 */
-	public static boolean hpAboveHeads = false;
+	public static boolean hpAboveHeads = true;
 
 	/**
 	 * Displays names above entities

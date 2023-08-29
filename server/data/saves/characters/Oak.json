@@ -3,8 +3,8 @@
   "password": "tja",
   "staff-rights": "ADMINISTRATOR",
   "position": {
-    "x": 2706,
-    "y": 3713,
+    "x": 3089,
+    "y": 3499,
     "z": 0
   },
   "spell-book": "NORMAL",
@@ -15,18 +15,18 @@
   "rigour": false,
   "augury": false,
   "has-veng": false,
-  "last-veng": -169,
+  "last-veng": -487,
   "running": true,
   "run-energy": 100,
-  "spec-percentage": 100,
+  "spec-percentage": 35,
   "recoil-damage": 0,
   "poison-damage": 0,
-  "poison-immunity": -169,
-  "overload-timer": -169,
-  "fire-immunity": -169,
-  "teleblock-timer": -169,
-  "prayerblock-timer": -169,
-  "skull-timer": -139049,
+  "poison-immunity": -487,
+  "overload-timer": -487,
+  "fire-immunity": -487,
+  "teleblock-timer": -487,
+  "prayerblock-timer": -487,
+  "skull-timer": 262,
   "target-kills": 0,
   "normal-kills": 0,
   "deaths": 0,
@@ -153,8 +153,8 @@
       "slot": 23
     },
     {
-      "id": -1,
-      "amount": 0,
+      "id": 1215,
+      "amount": 1,
       "slot": 24
     },
     {
@@ -175,8 +175,8 @@
   ],
   "equipment": [
     {
-      "id": -1,
-      "amount": 0,
+      "id": 1163,
+      "amount": 1,
       "slot": 0
     },
     {
@@ -190,14 +190,19 @@
       "slot": 0
     },
     {
-      "id": -1,
-      "amount": 0,
+      "id": 4151,
+      "amount": 1,
       "slot": 3
     },
     {
-      "id": -1,
-      "amount": 0,
-      "slot": 0
+      "id": 1127,
+      "amount": 1,
+      "slot": 4
+    },
+    {
+      "id": 12954,
+      "amount": 1,
+      "slot": 5
     },
     {
       "id": -1,
@@ -205,14 +210,9 @@
       "slot": 0
     },
     {
-      "id": -1,
-      "amount": 0,
-      "slot": 0
-    },
-    {
-      "id": -1,
-      "amount": 0,
-      "slot": 0
+      "id": 1079,
+      "amount": 1,
+      "slot": 7
     },
     {
       "id": -1,
@@ -312,10 +312,10 @@
       99
     ],
     "experience": [
-      13034795,
+      13035231,
       13034431,
-      13034431,
-      13034711,
+      13034515,
+      13035059,
       13034431,
       13034431,
       13034431,
@@ -346,139 +346,109 @@
       "slot": 0
     },
     {
-      "id": 4151,
+      "id": 4153,
       "amount": 1,
       "slot": 1
     },
     {
-      "id": 4153,
+      "id": 9185,
       "amount": 1,
       "slot": 2
     },
     {
-      "id": 1215,
+      "id": 11235,
       "amount": 1,
       "slot": 3
     },
     {
-      "id": 9185,
-      "amount": 1,
-      "slot": 4
-    },
-    {
-      "id": 11235,
-      "amount": 1,
-      "slot": 5
-    },
-    {
       "id": 9244,
       "amount": 5000,
-      "slot": 6
+      "slot": 4
     },
     {
       "id": 11212,
       "amount": 1000,
-      "slot": 7
+      "slot": 5
     },
     {
       "id": 385,
       "amount": 500,
-      "slot": 8
+      "slot": 6
     },
     {
       "id": 2440,
       "amount": 100,
-      "slot": 9
+      "slot": 7
     },
     {
       "id": 2436,
       "amount": 100,
-      "slot": 10
+      "slot": 8
     },
     {
       "id": 2442,
       "amount": 100,
-      "slot": 11
+      "slot": 9
     },
     {
       "id": 2444,
       "amount": 100,
-      "slot": 12
+      "slot": 10
     },
     {
       "id": 2434,
       "amount": 100,
-      "slot": 13
+      "slot": 11
     },
     {
       "id": 3040,
       "amount": 100,
-      "slot": 14
+      "slot": 12
     },
     {
       "id": 2430,
       "amount": 100,
-      "slot": 15
-    },
-    {
-      "id": 1163,
-      "amount": 1,
-      "slot": 16
-    },
-    {
-      "id": 1127,
-      "amount": 1,
-      "slot": 17
-    },
-    {
-      "id": 1079,
-      "amount": 1,
-      "slot": 18
-    },
-    {
-      "id": 12954,
-      "amount": 1,
-      "slot": 19
+      "slot": 13
     },
     {
       "id": 4089,
       "amount": 1,
-      "slot": 20
+      "slot": 14
     },
     {
       "id": 4091,
       "amount": 1,
-      "slot": 21
+      "slot": 15
     },
     {
       "id": 4093,
       "amount": 1,
-      "slot": 22
+      "slot": 16
     },
     {
       "id": 4095,
       "amount": 1,
-      "slot": 23
+      "slot": 17
     },
     {
       "id": 4097,
       "amount": 1,
-      "slot": 24
+      "slot": 18
     },
     {
       "id": 2503,
       "amount": 1,
-      "slot": 25
+      "slot": 19
     },
     {
       "id": 2497,
       "amount": 1,
-      "slot": 26
+      "slot": 20
     },
     {
       "id": 2491,
       "amount": 1,
-      "slot": 27
+      "slot": 21
     }
   ],
   "bank-1": [],
