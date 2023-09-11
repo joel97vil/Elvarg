@@ -7,6 +7,7 @@ import java.awt.event.*;
 import com.runescape.Client.ScreenMode;
 import com.runescape.cache.graphics.Widget;
 import com.runescape.draw.ProducingGraphicsBuffer;
+import javax.swing.SwingUtilities;
 
 public class GameApplet extends Applet implements Runnable, MouseListener,
 		MouseMotionListener, MouseWheelListener, KeyListener, FocusListener,
@@ -401,17 +402,17 @@ public class GameApplet extends Applet implements Runnable, MouseListener,
 		clickX = x;
 		clickY = y;
 		aLong29 = System.currentTimeMillis();
-		if (type == 2) {
+		if (SwingUtilities.isMiddleMouseButton(e)) {
 			mouseWheelDown = true;
 			mouseWheelX = x;
 			mouseWheelY = y;
 			return;
 		}
-		if (e.isMetaDown()) {
+                else if (SwingUtilities.isRightMouseButton(e)) {
 			clickType = RIGHT;
 			clickMode1 = 2;
 			clickMode2 = 2;
-		} else {
+		} else if(SwingUtilities.isLeftMouseButton(e)){
 			clickType = LEFT;
 			clickMode1 = 1;
 			clickMode2 = 1;
